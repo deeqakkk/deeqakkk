@@ -6,17 +6,17 @@
 
 - 📚 I’m a B.Tech student from **GGSIPU University, Delhi.**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development.**
 
-- 👯 I’m mainly into **Data strucutres and algorithm**
+- 👯 I’m mainly into **Data strucutres and algorithm.**
 
-- 🤝 I’m looking for help with **Open Source contribution**
+- 🤝 I’m looking for help with **Open Source contribution.**
 
-- 💬 Ask me about **DSA and c++**
+- 💬 Ask me about **DSA and c++.**
 
-- 📫 How to reach me **0822deepakverma@gmail.com**
+- 📫 How to reach me: **0822deepakverma@gmail.com**
 
-- ⚡ Fun fact **I have changed alot in transiton between school and college👀**
+- ⚡ Fun fact **I feel I am confident.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
