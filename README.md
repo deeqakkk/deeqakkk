@@ -40,7 +40,7 @@ width="40" height="40"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deeqakkk" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deqakkk" height="30" width="40" >
-<a href="https://linkedin.com/in/deepak verma" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak verma" height="30" width="40" >
+<a href="https://www.linkedin.com/in/deeqakkk/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak verma" height="30" width="40" >
 <a href="https://www.codechef.com/users/deepak_0822" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak_0822" height="30" width="40" ></a>
 <a href="https://www.hackerrank.com/0822deepakverma" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="0822deepakverma" height="30" width="40" /></a>
 
