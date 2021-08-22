@@ -18,12 +18,6 @@
 
 - ⚡ Fun fact **I feel I am confident.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deeqakkk" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deqakkk" height="30" width="40" >
-<a href="https://linkedin.com/in/deepak verma" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak verma" height="30" width="40" >
-<a href="https://www.codechef.com/users/deepak_0822" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak_0822" height="30" width="40" ></a>
-<a href="https://www.hackerrank.com/0822deepakverma" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="0822deepakverma" height="30" width="40" /></a>
 
 
 
@@ -41,7 +35,15 @@ width="40" height="40"/>
 </a>  &nbsp;
 <a href="https://www.javascript.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Js" width="40" height="40"/>
 </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/deeqakkk" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deqakkk" height="30" width="40" >
+<a href="https://linkedin.com/in/deepak verma" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak verma" height="30" width="40" >
+<a href="https://www.codechef.com/users/deepak_0822" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak_0822" height="30" width="40" ></a>
+<a href="https://www.hackerrank.com/0822deepakverma" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="0822deepakverma" height="30" width="40" /></a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeqakkk&show_icons=true&locale=en&layout=compact" alt="deeqakkk" /></p>
 
