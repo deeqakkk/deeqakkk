@@ -16,10 +16,10 @@
 
 - 📫 How to reach me: **0822deepakverma@gmail.com**
 
-- ⚡ Fun fact **I feel I am confident.**
+- ⚡ Fun fact **I feel I can sing🎶.**
 
 
-
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,15 +37,19 @@ width="40" height="40"/>
 </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 </p>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deeqakkk" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deqakkk" height="30" width="40" >
 <a href="https://www.linkedin.com/in/deeqakkk/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak verma" height="30" width="40" >
 <a href="https://www.codechef.com/users/deepak_0822" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak_0822" height="30" width="40" ></a>
 <a href="https://www.hackerrank.com/0822deepakverma" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="0822deepakverma" height="30" width="40" /></a>
+<hr>
+ <p align="left">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeqakkk&show_icons=true&locale=en&layout=compact" alt="deeqakkk" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeqakkk&show_icons=true&locale=en" alt="deeqakkk" width="410" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeqakkk&show_icons=true&locale=en&layout=compact" alt="deeqakkk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeqakkk&show_icons=true&locale=en" alt="deeqakkk" /></p>
 
