@@ -6,11 +6,11 @@
 
 - 📚 I’m a B.Tech student from **GGSIPU University, Delhi.**
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **Data Structures & Algorithm.**
 
-- 👯 I’m mainly into **Data strucutres and algorithm.**
+- 👯 I’m mainly into **Web Development.**
 
-- 🤝 I’m looking for help with **Open Source contribution.**
+- 🤝 I’m looking for help with **MERN Stack development.**
 
 - 💬 Ask me about **Frontend Development**
 
