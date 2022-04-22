@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack development.**
 
-- 💬 Ask me about **Books.**
+- 💬 Ask me about **Games.**
 
 - 📫 How to reach me: **0822deepakverma@gmail.com**
 
