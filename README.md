@@ -46,7 +46,7 @@ width="40" height="40"/>
 <a href="https://www.hackerrank.com/0822deepakverma" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="0822deepakverma" height="30" width="40" /></a>
 <hr>
  <p align="left">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<i><b>GitHub Stats</b></i></p>
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeqakkk&show_icons=true&locale=en&layout=compact" alt="deeqakkk" /></p>
 
