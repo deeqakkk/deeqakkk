@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; 
 
-- I am a Full Stack Developer currently working at ChatDaddy with a mission to provide best whatsapp automation tool🚀
+-  Working as a SDE-1 at Skillovilla🚀
 - I primarily work with MERN stack and have majorly build products at startups🌟
 - I have been into open-source, contributed as **Contributor** and **Mentor** at [GSSOC'21](https://www.linkedin.com/company/girlscriptsoc/), [LGM-SOC](https://www.linkedin.com/company/letsgrowmore/), [DevIncept](https://www.linkedin.com/company/devincept/), [Script Foundation](https://github.com/scriptfoundation)💻
 - I have been coding for **3+** years now⌛
